@@ -1,5 +1,5 @@
 # PNM Image Processor
-## A learning project featuring a variety of image filters and warps
+## A learning project featuring a variety of image filters and spatial transformations
 I got interested in image processing after seeing its variety of applications in machine learning, but my university only offers a class for graduate students.
 As such I'm going through the Gonzales & Woods book, and implementing a variety of image processing functions to get a better understanding of processing techniques.
 
